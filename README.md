@@ -16,10 +16,6 @@
 
 <br>
 
-<img src="https://i.imgur.com/PQd8qSY.png"/>
-<img src="https://i.imgur.com/TKXwK02.png"/>
-<img src="https://i.imgur.com/JZ3mYRh.png"/>
-<img src="https://i.imgur.com/qbGO9lX.png"/>
 
 ## 🚀 Tecnologias/Tecnologies
 
